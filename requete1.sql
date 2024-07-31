@@ -1,3 +1,3 @@
 Exercice 1
-SELECT * FROM recettes
+SELECT * FROM recipe
 ORDER BY preparation_time;

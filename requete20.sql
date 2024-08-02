@@ -1,2 +1,4 @@
 Exercice 20
-SELECT MAX(price) FROM ingredient
+SELECT recipe_name FROM recipe
+INNER JOIN ingredient
+where max(price)
